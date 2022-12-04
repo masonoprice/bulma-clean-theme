@@ -1,54 +1,26 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Deis Robotics
+subtitle: Robotics team at Brandeis University
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+## Who are we?
+The Deis Robotics club is a diverse bunch of students who are all linked together by a common interest in robotics. We're located at Brandeis University, and we're supported by our incredible Staff Advisor, Timothy Hebert. Right now we're really passionate about combat robotics, but in the past, we've focused on many different projects, including:
+- Machine learning
+- Self-driving cars
+- Sumo Bots
+- Image recognition
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+### Mission statement:
+Deis Robotics’s primary goal is to provide students with the opportunity to learn about numerous aspects of mechanical engineering, electrical engineering, and computer science in order to design and build fully operational machines.
+The club seeks to unify the student body through their interest in technology by hosting numerous events and competitions where members will have the opportunity to learn about the manufacturing process of hardware, the creation of the accompanying software and participate in the construction of specific projects throughout the year. These learning opportunities will be facilitated by the club leaders in conjunction with Brandeis, staff from outside companies and organizations will organize numerous informational events.
 
-## Ruby Gem
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+### Club photo:
 
-## GitHub Pages
+![20221202_171455](https://user-images.githubusercontent.com/118695279/205403720-6ae4dc7b-3472-4c45-8148-8e8e778112bd.jpg)
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
